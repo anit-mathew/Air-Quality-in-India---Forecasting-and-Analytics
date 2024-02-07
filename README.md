@@ -13,13 +13,13 @@ Forecasting Models: Linear Regression, ARIMA, and Auto ARIMA models are implemen
 Model Comparison: Different models are compared based on Mean Squared Error (MSE) to evaluate their performance.
 Insights: Key findings and patterns in air pollution are discussed, providing valuable insights for environmental analysis.
 
-#Results and Conclusions:
+# Results and Conclusions:
 
 Winters are identified as the most polluted time, with a declining trend in pollution levels over the years.
 Auto ARIMA and ETS models suggest a minor decrease in air pollution levels for the coming year.
 
-#Future Scope:
+# Future Scope:
 The project outlines potential areas for further research, such as expanding the dataset and exploring additional factors influencing air quality.
 
-#References:
+# References:
 The project incorporates various statistical and machine-learning techniques, with references provided for further exploration.
