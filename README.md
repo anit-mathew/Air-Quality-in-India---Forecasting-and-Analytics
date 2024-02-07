@@ -1,11 +1,25 @@
-# Introduction
-Welcome to the GitHub repository for the "Air Quality in India - Forecasting and Analytics" project, authored by Anit Mathew and Ritwik Katiyar. This project focuses on the analysis of air pollution in India, utilizing data spanning from 2017 to 2022. The primary objectives include understanding the yearly air pollution trends, identifying monthly variations, and forecasting air pollution levels for the year 2023.
+# Project Title: Air Quality in India - Forecasting and Analytics
 
-# Key Highlights:
-Data Source: The project relies on the "Air Quality Data in India" dataset, originally uploaded by 'fedesoriano' on Kaggle.
+# Authors: Anit Mathew and Ritwik Katiyar
 
-Analysis Techniques: The project employs various analytical techniques, including time series analysis, statistical modeling, and machine learning (ARIMA and Auto ARIMA models).
+# Overview:
+This GitHub repository contains a comprehensive analysis of air pollution in India, focusing on forecasting and analytics. The project aims to predict the air pollution situation in the coming year based on historical data. The analysis delves into year-wise trends, monthly variations, and utilizes machine learning models for forecasting.
 
-Insights: The findings highlight the seasonality of air pollution, with winters being the most polluted period. Notable insights include the decline in pollution levels over the years, the impact of seasons, and predictions indicating a stable pollution scenario for the coming year.
+# Key Features:
 
-Feel free to explore the code, visualizations, and detailed analysis presented in this repository. Your feedback and contributions are always welcome!
+Data Cleaning: The dataset is cleaned to ensure accuracy in analysis.
+Data Analysis and Visualizations: Bar plots, heat maps, and line plots provide insights into air pollution trends over the years, months, and hours.
+Forecasting Models: Linear Regression, ARIMA, and Auto ARIMA models are implemented to predict air pollution levels.
+Model Comparison: Different models are compared based on Mean Squared Error (MSE) to evaluate their performance.
+Insights: Key findings and patterns in air pollution are discussed, providing valuable insights for environmental analysis.
+
+#Results and Conclusions:
+
+Winters are identified as the most polluted time, with a declining trend in pollution levels over the years.
+Auto ARIMA and ETS models suggest a minor decrease in air pollution levels for the coming year.
+
+#Future Scope:
+The project outlines potential areas for further research, such as expanding the dataset and exploring additional factors influencing air quality.
+
+#References:
+The project incorporates various statistical and machine-learning techniques, with references provided for further exploration.
